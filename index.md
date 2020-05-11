@@ -8,6 +8,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+__bold?__ bold?*italic?*
+* pen
+* ppen
+  * pan
+  * ppan
+ 1. 1stn
+ 1. 2ndn
+ 1. 3rdn
+  1. 1stt
+  1. 2ndt
+  
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
+I think you should use an
+`<addr>` element here instead.
 ```markdown
 Syntax highlighted code block
 
